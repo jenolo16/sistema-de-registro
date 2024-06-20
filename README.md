@@ -5,3 +5,5 @@
 para ejutar el sistema, debes poner:
 
 ```npm install react```
+
+sistema de regitro 2
